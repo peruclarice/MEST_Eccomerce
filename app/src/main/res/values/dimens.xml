@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">12dp</dimen>
+    <dimen name="margin_xs">8dp</dimen>
+    <dimen name="margin_sm">16dp</dimen>
+    <dimen name="margin_md">32dp</dimen>
+    <dimen name="margin_lg">64dp</dimen>
+
+    <dimen name="activity_input_margin">32dp</dimen>
+    <dimen name="input_stroke_width">0.5dp</dimen>
+    <dimen name="activity_input_corner_radius">30dp</dimen>
+</resources>
