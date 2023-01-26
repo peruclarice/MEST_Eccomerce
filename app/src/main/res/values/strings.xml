@@ -8,4 +8,6 @@
     <string name="forgot_password">Forgot Password</string>
     <string name="back_to_login">Back to Login</string>
     <string name="sign_up">Sign Up</string>
+    <string name="home_feed_title"></string>
+    <string name="home_feed_img_attribute"></string>
 </resources>

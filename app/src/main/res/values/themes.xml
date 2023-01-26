@@ -41,4 +41,9 @@
         <item name="elevation">0dp</item>
     </style>
 
+    <!-- Splash screen style -->
+    <style name="SplashScreenTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/primary_color</item>
+    </style>
+
 </resources>
